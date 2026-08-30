@@ -1,0 +1,64 @@
+about:
+  description: Linux virtual machines, with a focus on running containers
+  license: Apache-2.0
+  homepage: https://lima-vm.io/
+  head: 87c24e9
+  archived: false
+  latestVersion: v2.2.0
+  collectedAt: 2026-08-30T05:45:30Z
+timeline:
+  created: 2021-05-14
+  lastCommit: 2026-08-29
+  lastRelease: 2026-07-21
+popularity:
+  star: 21785
+  watcher: 89
+  fork: 949
+  release: 101
+  contributor: 215
+  pullRequest: 562
+  issue: 1537
+language:
+  Go: 1547542
+  Shell: 406146
+  Makefile: 34507
+  Perl: 17075
+  HTML: 9440
+  PowerShell: 9240
+  SCSS: 1051
+  Lua: 369
+  Batchfile: 361
+totalLine: 2025731
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 40
+    openPR: 14
+    closedIssue: 3
+    openIssue: 12
+    commit: 49
+  last90d:
+    since: 2026-06-01
+    release: 6
+    mergedPR: 213
+    openPR: 47
+    closedIssue: 41
+    openIssue: 43
+    commit: 234
+  last180d:
+    since: 2026-03-03
+    release: 11
+    mergedPR: 407
+    openPR: 70
+    closedIssue: 128
+    openIssue: 71
+    commit: 454
+  last360d:
+    since: 2025-09-04
+    release: 26
+    mergedPR: 825
+    openPR: 88
+    closedIssue: 244
+    openIssue: 143
+    commit: 942
