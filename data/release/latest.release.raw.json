@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 37586365,
       "digest": "sha256:bbdef91774885a0d05f7b048c4eb89ae2bcf3a0c252ae7ca7934e63df76d93c3",
-      "download_count": 14040,
+      "download_count": 14110,
       "created_at": "2026-07-21T15:03:25Z",
       "updated_at": "2026-07-21T15:03:26Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.2.0/lima-2.2.0-Darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24415554,
       "digest": "sha256:0d6f99c19f6e4bc3c92730c4c29d929e6927f0cb0a0ba1a84383367135a8ff31",
-      "download_count": 4630,
+      "download_count": 4650,
       "created_at": "2026-07-21T15:03:25Z",
       "updated_at": "2026-07-21T15:03:26Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.2.0/lima-2.2.0-Darwin-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 21611779,
       "digest": "sha256:7c6a09c6844f55f811e9b7b2b60a6070a512c696c8ec752dfdb3c8ed50ed0364",
-      "download_count": 2990,
+      "download_count": 2991,
       "created_at": "2026-07-21T15:03:25Z",
       "updated_at": "2026-07-21T15:03:26Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.2.0/lima-2.2.0-Linux-aarch64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 23968157,
       "digest": "sha256:a0ea1ccf6b7335a900adb5f8d2b8384457965fecb1ba72f09b4e3e46d12f424a",
-      "download_count": 56350,
+      "download_count": 56480,
       "created_at": "2026-07-21T15:03:25Z",
       "updated_at": "2026-07-21T15:03:26Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.2.0/lima-2.2.0-Linux-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 38554314,
       "digest": "sha256:3aff4453eb3c359eb4f3b458056db24f2c5c15019232531292f49e04050554ed",
-      "download_count": 826,
+      "download_count": 828,
       "created_at": "2026-07-21T15:03:26Z",
       "updated_at": "2026-07-21T15:03:28Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.2.0/lima-additional-guestagents-2.2.0-Darwin-arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 37848400,
       "digest": "sha256:8d03b82a456e299813276c6ff532fce1848fee5e50527433fe3374cde9183175",
-      "download_count": 2200,
+      "download_count": 2206,
       "created_at": "2026-07-21T15:03:27Z",
       "updated_at": "2026-07-21T15:03:29Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.2.0/lima-additional-guestagents-2.2.0-Linux-x86_64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1396,
       "digest": "sha256:7da5160ee9b22de8eec4222e581334ee6326881e20d5aa8eb29b22f897312a5f",
-      "download_count": 3803,
+      "download_count": 3827,
       "created_at": "2026-07-21T15:03:25Z",
       "updated_at": "2026-07-21T15:03:25Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.2.0/SHA256SUMS"
