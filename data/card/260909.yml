@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.0-beta.0"
   latestRelease: "v2.2.0"
   latestPrerelease: "v2.3.0-beta.0"
-  collectedAt: 2026-09-09T04:54:38Z
+  collectedAt: 2026-09-09T18:58:18Z
 timeline:
   created: 2021-05-14
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-21
   lastPrerelease: 2026-09-01
 popularity:
-  star: 21844
+  star: 21854
   watcher: 91
   fork: 952
   release: 102
@@ -41,7 +41,7 @@ recent:
     openPR: 14
     closedIssue: 6
     openIssue: 15
-    commit: 0
+    commit: 47
   last60d:
     since: 2026-07-11
     release: 3
@@ -49,7 +49,7 @@ recent:
     openPR: 35
     closedIssue: 21
     openIssue: 35
-    commit: 0
+    commit: 147
   last90d:
     since: 2026-06-11
     release: 6
@@ -57,7 +57,7 @@ recent:
     openPR: 43
     closedIssue: 40
     openIssue: 45
-    commit: 0
+    commit: 233
   last180d:
     since: 2026-03-13
     release: 11
@@ -65,7 +65,7 @@ recent:
     openPR: 67
     closedIssue: 127
     openIssue: 72
-    commit: 0
+    commit: 427
   last360d:
     since: 2025-09-14
     release: 26
@@ -73,7 +73,7 @@ recent:
     openPR: 87
     closedIssue: 242
     openIssue: 134
-    commit: 0
+    commit: 911
   last720d:
     since: 2024-09-19
     release: 44
@@ -91,7 +91,7 @@ total:
   commit: 6592
 ---
 path: /home/runner/.x-repo/github.com/lima-vm/lima
-collectedAt: 2026-09-09T04:54:42Z
+collectedAt: 2026-09-09T18:58:20Z
 loc:
   Go:
     code: 47038
