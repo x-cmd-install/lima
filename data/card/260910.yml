@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.0-beta.0"
   latestRelease: "v2.2.0"
   latestPrerelease: "v2.3.0-beta.0"
-  collectedAt: 2026-09-10T21:45:16Z
+  collectedAt: 2026-09-10T22:17:17Z
 timeline:
   created: 2021-05-14
   lastCommit: 2026-09-10
@@ -91,7 +91,7 @@ total:
   commit: 6596
 ---
 path: /home/runner/.x-repo/github.com/lima-vm/lima
-collectedAt: 2026-09-10T21:45:20Z
+collectedAt: 2026-09-10T22:17:19Z
 loc:
   Go:
     code: 47162
