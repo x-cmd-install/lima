@@ -4,7 +4,7 @@
 
 Linux virtual machines, with a focus on running containers
 
-[![x-cmd/install — lima Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lima.svg)](https://x-cmd.com/install/lima)
+[![x-cmd/install — lima Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lima.svg)](https://x-cmd.com/install/lima)
 
 ## Install
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0-beta.0` (2026-07-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 21,942 · **Forks**: 957 · **Open issues**: 1,557 · **Contributors**: 217
+- **Stars**: 21,948 · **Forks**: 957 · **Open issues**: 1,557 · **Contributors**: 217
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 2945 · **Open PRs**: 97 · **Closed issues**: 1123 · **Open issues**: 434 · **Commits**: 6650
+- **Releases**: 102 · **Merged PRs**: 2946 · **Open PRs**: 97 · **Closed issues**: 1123 · **Open issues**: 434 · **Commits**: 6652
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 48 | 13 | 7 | 15 | 43 |
-| last60d | 2026-07-24 | 1 | 114 | 24 | 15 | 26 | 102 |
-| 90d | 2026-06-24 | 5 | 222 | 33 | 38 | 44 | 235 |
-| last180d | 2026-03-26 | 9 | 397 | 59 | 108 | 70 | 437 |
-| 360d | 2025-09-27 | 25 | 803 | 80 | 234 | 124 | 887 |
-| last720d | 2024-10-02 | 44 | 1610 | 88 | 529 | 232 | 3520 |
+| 30d | 2026-08-24 | 1 | 47 | 13 | 7 | 15 | 44 |
+| last60d | 2026-07-25 | 1 | 112 | 23 | 14 | 24 | 103 |
+| 90d | 2026-06-25 | 5 | 222 | 33 | 38 | 44 | 236 |
+| last180d | 2026-03-27 | 9 | 398 | 59 | 108 | 69 | 438 |
+| 360d | 2025-09-28 | 25 | 804 | 79 | 234 | 124 | 888 |
+| last720d | 2024-10-03 | 44 | 1608 | 88 | 529 | 232 | 3511 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:58:20Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:59:00Z._

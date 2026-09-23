@@ -4,7 +4,7 @@
 
 Linux virtual machines, with a focus on running containers
 
-[![x-cmd/install — lima Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lima.svg?lang=zh)](https://x-cmd.com/install/lima)
+[![x-cmd/install — lima Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lima.svg?lang=zh)](https://x-cmd.com/install/lima)
 
 ## 安装
 
@@ -43,27 +43,27 @@ x install lima
 ## 发布
 
 - **最新版本**: `v2.3.0-beta.0` (2026-07-21)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 21,942 · **Fork**: 957 · **开放 issue**: 1,557 · **贡献者**: 217
+- **Star**: 21,948 · **Fork**: 957 · **开放 issue**: 1,557 · **贡献者**: 217
 
 ## 累计统计
 
-- **发布数**: 102 · **已合并 PR**: 2945 · **开放 PR**: 97 · **已关闭 issue**: 1123 · **开放 issue**: 434 · **提交数**: 6650
+- **发布数**: 102 · **已合并 PR**: 2946 · **开放 PR**: 97 · **已关闭 issue**: 1123 · **开放 issue**: 434 · **提交数**: 6652
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 48 | 13 | 7 | 15 | 43 |
-| last60d | 2026-07-24 | 1 | 114 | 24 | 15 | 26 | 102 |
-| 90d | 2026-06-24 | 5 | 222 | 33 | 38 | 44 | 235 |
-| last180d | 2026-03-26 | 9 | 397 | 59 | 108 | 70 | 437 |
-| 360d | 2025-09-27 | 25 | 803 | 80 | 234 | 124 | 887 |
-| last720d | 2024-10-02 | 44 | 1610 | 88 | 529 | 232 | 3520 |
+| 30d | 2026-08-24 | 1 | 47 | 13 | 7 | 15 | 44 |
+| last60d | 2026-07-25 | 1 | 112 | 23 | 14 | 24 | 103 |
+| 90d | 2026-06-25 | 5 | 222 | 33 | 38 | 44 | 236 |
+| last180d | 2026-03-27 | 9 | 398 | 59 | 108 | 69 | 438 |
+| 360d | 2025-09-28 | 25 | 804 | 79 | 234 | 124 | 888 |
+| last720d | 2024-10-03 | 44 | 1608 | 88 | 529 | 232 | 3511 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ lima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:58:21Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:59:01Z._
