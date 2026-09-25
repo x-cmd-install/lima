@@ -26,12 +26,12 @@ Total: **61,408** lines of code across **595** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.8 / 10**
+Overall score: **8.7 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
+- **Vulnerabilities** (2/10) — 8 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0-beta.0` (2026-07-21)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-25
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 21,955 · **Forks**: 958 · **Open issues**: 1,559 · **Contributors**: 217
+- **Stars**: 21,964 · **Forks**: 957 · **Open issues**: 1,561 · **Contributors**: 218
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 2946 · **Open PRs**: 99 · **Closed issues**: 1123 · **Open issues**: 436 · **Commits**: 6652
+- **Releases**: 102 · **Merged PRs**: 2948 · **Open PRs**: 102 · **Closed issues**: 1123 · **Open issues**: 438 · **Commits**: 6654
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 47 | 15 | 7 | 17 | 44 |
-| last60d | 2026-07-26 | 1 | 107 | 23 | 14 | 26 | 103 |
-| 90d | 2026-06-26 | 5 | 221 | 35 | 37 | 46 | 236 |
-| last180d | 2026-03-28 | 9 | 398 | 61 | 107 | 71 | 438 |
-| 360d | 2025-09-29 | 25 | 796 | 81 | 233 | 126 | 888 |
-| last720d | 2024-10-04 | 44 | 1606 | 90 | 526 | 234 | 3502 |
+| 30d | 2026-08-26 | 1 | 47 | 18 | 7 | 19 | 45 |
+| last60d | 2026-07-27 | 1 | 103 | 25 | 13 | 28 | 104 |
+| 90d | 2026-06-27 | 5 | 222 | 38 | 36 | 48 | 238 |
+| last180d | 2026-03-29 | 9 | 400 | 64 | 107 | 73 | 440 |
+| 360d | 2025-09-30 | 25 | 798 | 84 | 233 | 128 | 890 |
+| last720d | 2024-10-05 | 44 | 1607 | 93 | 526 | 236 | 3481 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:48:40Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:05:02Z._
