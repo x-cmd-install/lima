@@ -32,7 +32,7 @@ x install lima
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 13 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install lima
 ## 发布
 
 - **最新版本**: `v2.3.0-beta.1` (2026-10-03)
-- **最近提交**: 2026-10-07
+- **最近提交**: 2026-10-08
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 22,048 · **Fork**: 967 · **开放 issue**: 1,573 · **贡献者**: 223
+- **Star**: 22,056 · **Fork**: 968 · **开放 issue**: 1,573 · **贡献者**: 223
 
 ## 累计统计
 
-- **发布数**: 104 · **已合并 PR**: 2986 · **开放 PR**: 80 · **已关闭 issue**: 1141 · **开放 issue**: 432 · **提交数**: 6734
+- **发布数**: 104 · **已合并 PR**: 2989 · **开放 PR**: 79 · **已关闭 issue**: 1141 · **开放 issue**: 432 · **提交数**: 6740
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 46 | 15 | 13 | 13 | 51 |
-| last60d | 2026-08-09 | 3 | 102 | 18 | 25 | 22 | 110 |
-| 90d | 2026-07-10 | 5 | 215 | 27 | 42 | 42 | 228 |
-| last180d | 2026-04-11 | 10 | 409 | 49 | 112 | 65 | 451 |
-| 360d | 2025-10-13 | 26 | 780 | 66 | 239 | 115 | 864 |
-| last720d | 2024-10-18 | 46 | 1598 | 75 | 531 | 227 | 3448 |
+| 30d | 2026-09-09 | 2 | 47 | 14 | 13 | 13 | 54 |
+| last60d | 2026-08-10 | 3 | 102 | 17 | 25 | 22 | 113 |
+| 90d | 2026-07-11 | 5 | 217 | 26 | 42 | 40 | 231 |
+| last180d | 2026-04-12 | 10 | 410 | 48 | 112 | 64 | 454 |
+| 360d | 2025-10-14 | 26 | 779 | 65 | 238 | 115 | 867 |
+| last720d | 2024-10-19 | 46 | 1600 | 74 | 528 | 227 | 3452 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ lima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261008.yml` · 2026-10-08T06:09:57Z._
+_数据快照: `data/card/261009.yml` · 2026-10-09T06:23:38Z._

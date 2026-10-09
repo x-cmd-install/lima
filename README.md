@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 13 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0-beta.1` (2026-10-03)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 22,048 · **Forks**: 967 · **Open issues**: 1,573 · **Contributors**: 223
+- **Stars**: 22,056 · **Forks**: 968 · **Open issues**: 1,573 · **Contributors**: 223
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 2986 · **Open PRs**: 80 · **Closed issues**: 1141 · **Open issues**: 432 · **Commits**: 6734
+- **Releases**: 104 · **Merged PRs**: 2989 · **Open PRs**: 79 · **Closed issues**: 1141 · **Open issues**: 432 · **Commits**: 6740
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 46 | 15 | 13 | 13 | 51 |
-| last60d | 2026-08-09 | 3 | 102 | 18 | 25 | 22 | 110 |
-| 90d | 2026-07-10 | 5 | 215 | 27 | 42 | 42 | 228 |
-| last180d | 2026-04-11 | 10 | 409 | 49 | 112 | 65 | 451 |
-| 360d | 2025-10-13 | 26 | 780 | 66 | 239 | 115 | 864 |
-| last720d | 2024-10-18 | 46 | 1598 | 75 | 531 | 227 | 3448 |
+| 30d | 2026-09-09 | 2 | 47 | 14 | 13 | 13 | 54 |
+| last60d | 2026-08-10 | 3 | 102 | 17 | 25 | 22 | 113 |
+| 90d | 2026-07-11 | 5 | 217 | 26 | 42 | 40 | 231 |
+| last180d | 2026-04-12 | 10 | 410 | 48 | 112 | 64 | 454 |
+| 360d | 2025-10-14 | 26 | 779 | 65 | 238 | 115 | 867 |
+| last720d | 2024-10-19 | 46 | 1600 | 74 | 528 | 227 | 3452 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:09:56Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:23:37Z._
