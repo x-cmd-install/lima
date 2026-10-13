@@ -32,7 +32,7 @@ x install lima
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Vulnerabilities** (0/10) — 13 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install lima
 ## 发布
 
 - **最新版本**: `v2.3.0-beta.1` (2026-10-03)
-- **最近提交**: 2026-10-10
+- **最近提交**: 2026-10-13
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 22,071 · **Fork**: 976 · **开放 issue**: 1,580 · **贡献者**: 225
+- **Star**: 22,081 · **Fork**: 977 · **开放 issue**: 1,585 · **贡献者**: 226
 
 ## 累计统计
 
-- **发布数**: 104 · **已合并 PR**: 2997 · **开放 PR**: 75 · **已关闭 issue**: 1145 · **开放 issue**: 435 · **提交数**: 6756
+- **发布数**: 104 · **已合并 PR**: 3001 · **开放 PR**: 66 · **已关闭 issue**: 1146 · **开放 issue**: 439 · **提交数**: 6764
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 51 | 12 | 15 | 17 | 44 |
-| last60d | 2026-08-13 | 3 | 104 | 15 | 25 | 26 | 116 |
-| 90d | 2026-07-14 | 5 | 212 | 22 | 43 | 43 | 203 |
-| last180d | 2026-04-15 | 10 | 412 | 43 | 114 | 68 | 452 |
-| 360d | 2025-10-17 | 26 | 773 | 61 | 241 | 115 | 848 |
-| last720d | 2024-10-22 | 45 | 1599 | 70 | 529 | 230 | 3449 |
+| 30d | 2026-09-13 | 2 | 54 | 11 | 16 | 21 | 47 |
+| last60d | 2026-08-14 | 3 | 107 | 14 | 26 | 30 | 119 |
+| 90d | 2026-07-15 | 5 | 209 | 21 | 44 | 46 | 206 |
+| last180d | 2026-04-16 | 10 | 414 | 40 | 115 | 72 | 455 |
+| 360d | 2025-10-18 | 26 | 775 | 57 | 240 | 119 | 852 |
+| last720d | 2024-10-23 | 45 | 1600 | 63 | 530 | 233 | 3445 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ lima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T05:59:07Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:01:28Z._
