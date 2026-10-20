@@ -31,8 +31,8 @@ Overall score: **8.7 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **Vulnerabilities** (0/10) — 13 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0-beta.1` (2026-10-03)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 22,120 · **Forks**: 985 · **Open issues**: 1,595 · **Contributors**: 232
+- **Stars**: 22,122 · **Forks**: 985 · **Open issues**: 1,596 · **Contributors**: 232
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 3021 · **Open PRs**: 69 · **Closed issues**: 1153 · **Open issues**: 442 · **Commits**: 6804
+- **Releases**: 104 · **Merged PRs**: 3022 · **Open PRs**: 68 · **Closed issues**: 1153 · **Open issues**: 443 · **Commits**: 6806
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 60 | 17 | 20 | 21 | 54 |
-| last60d | 2026-08-20 | 3 | 116 | 19 | 29 | 31 | 117 |
-| 90d | 2026-07-21 | 4 | 197 | 24 | 41 | 41 | 191 |
-| last180d | 2026-04-22 | 10 | 426 | 43 | 117 | 75 | 455 |
-| 360d | 2025-10-24 | 26 | 778 | 60 | 244 | 122 | 859 |
-| last720d | 2024-10-29 | 45 | 1598 | 66 | 532 | 234 | 3433 |
+| 30d | 2026-09-20 | 2 | 60 | 15 | 19 | 21 | 55 |
+| last60d | 2026-08-21 | 3 | 115 | 18 | 29 | 32 | 118 |
+| 90d | 2026-07-22 | 3 | 191 | 23 | 40 | 42 | 192 |
+| last180d | 2026-04-23 | 10 | 424 | 42 | 115 | 76 | 456 |
+| 360d | 2025-10-25 | 26 | 779 | 59 | 244 | 123 | 860 |
+| last720d | 2024-10-30 | 45 | 1596 | 65 | 531 | 235 | 3433 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:39:55Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:54:09Z._
