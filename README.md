@@ -14,11 +14,11 @@ x install lima
 
 ## Code insight
 
-Total: **66,809** lines of code across **625** files in the top 5 languages.
+Total: **67,090** lines of code across **631** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 53,862 | 5,526 | 7,294 | 430 |
+| Go | 54,143 | 5,568 | 7,359 | 436 |
 | Sh | 6,307 | 1,559 | 911 | 67 |
 | Yaml | 2,237 | 1,214 | 425 | 114 |
 | Json | 2,013 | 0 | 0 | 5 |
@@ -31,8 +31,8 @@ Overall score: **8.7 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Vulnerabilities** (0/10) — 13 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Vulnerabilities** (0/10) — 13 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0-beta.1` (2026-10-03)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 22,122 · **Forks**: 985 · **Open issues**: 1,596 · **Contributors**: 232
+- **Stars**: 22,132 · **Forks**: 986 · **Open issues**: 1,597 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 3022 · **Open PRs**: 68 · **Closed issues**: 1153 · **Open issues**: 443 · **Commits**: 6806
+- **Releases**: 104 · **Merged PRs**: 3025 · **Open PRs**: 67 · **Closed issues**: 1155 · **Open issues**: 442 · **Commits**: 6812
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 60 | 15 | 19 | 21 | 55 |
-| last60d | 2026-08-21 | 3 | 115 | 18 | 29 | 32 | 118 |
-| 90d | 2026-07-22 | 3 | 191 | 23 | 40 | 42 | 192 |
-| last180d | 2026-04-23 | 10 | 424 | 42 | 115 | 76 | 456 |
-| 360d | 2025-10-25 | 26 | 779 | 59 | 244 | 123 | 860 |
-| last720d | 2024-10-30 | 45 | 1596 | 65 | 531 | 235 | 3433 |
+| 30d | 2026-09-21 | 2 | 61 | 14 | 21 | 19 | 58 |
+| last60d | 2026-08-22 | 3 | 117 | 17 | 31 | 31 | 121 |
+| 90d | 2026-07-23 | 3 | 190 | 21 | 42 | 41 | 195 |
+| last180d | 2026-04-24 | 10 | 419 | 41 | 114 | 75 | 459 |
+| 360d | 2025-10-26 | 26 | 781 | 58 | 246 | 122 | 863 |
+| last720d | 2024-10-31 | 45 | 1598 | 64 | 533 | 234 | 3422 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:54:09Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:52:19Z._
