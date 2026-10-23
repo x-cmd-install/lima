@@ -14,11 +14,11 @@ x install lima
 
 ## Code insight
 
-Total: **67,318** lines of code across **635** files in the top 5 languages.
+Total: **68,235** lines of code across **638** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 54,323 | 5,586 | 7,385 | 439 |
+| Go | 55,240 | 5,692 | 7,499 | 442 |
 | Sh | 6,312 | 1,561 | 912 | 67 |
 | Yaml | 2,280 | 1,224 | 436 | 115 |
 | Json | 2,013 | 0 | 0 | 5 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0-beta.1` (2026-10-03)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 22,139 · **Forks**: 986 · **Open issues**: 1,600 · **Contributors**: 234
+- **Stars**: 22,154 · **Forks**: 986 · **Open issues**: 1,601 · **Contributors**: 234
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 3034 · **Open PRs**: 63 · **Closed issues**: 1159 · **Open issues**: 441 · **Commits**: 6830
+- **Releases**: 104 · **Merged PRs**: 3037 · **Open PRs**: 62 · **Closed issues**: 1161 · **Open issues**: 440 · **Commits**: 6836
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 68 | 11 | 22 | 21 | 67 |
-| last60d | 2026-08-23 | 3 | 124 | 14 | 33 | 32 | 130 |
-| 90d | 2026-07-24 | 3 | 195 | 18 | 43 | 41 | 204 |
-| last180d | 2026-04-25 | 10 | 427 | 37 | 118 | 73 | 468 |
-| 360d | 2025-10-27 | 26 | 787 | 54 | 250 | 121 | 872 |
-| last720d | 2024-11-01 | 45 | 1602 | 60 | 537 | 233 | 3438 |
+| 30d | 2026-09-23 | 2 | 70 | 8 | 24 | 18 | 70 |
+| last60d | 2026-08-24 | 3 | 125 | 13 | 35 | 31 | 133 |
+| 90d | 2026-07-25 | 3 | 194 | 17 | 44 | 38 | 207 |
+| last180d | 2026-04-26 | 10 | 428 | 36 | 119 | 72 | 471 |
+| 360d | 2025-10-28 | 26 | 790 | 53 | 252 | 120 | 875 |
+| last720d | 2024-11-02 | 45 | 1605 | 59 | 539 | 232 | 3434 |
 
 ## Release assets
 
@@ -85,6 +85,17 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/lima-vm/lima/releases/download/v2.2.1/SHA256SUMS) | 1.4 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/lima-vm/lima/releases/download/v2.2.1/SHA256SUMS.asc) | 699 B | `other` |
 
+## Distribution status
+
+Reported by **28** distros on [repology.org](https://repology.org/project/lima). **8** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.2.1` | ✅ latest |
+| Nix unstable | `2.2.0` | ⚠️ outdated |
+| Alpine edge | `2.2.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.2.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lima` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +105,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:44:37Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:49:31Z._
