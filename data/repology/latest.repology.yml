@@ -1,15 +1,10 @@
-- repo: pkgsrc_2026_2
-  srcname: sysutils/lima
-  binname: lima
-  visiblename: sysutils/lima
-  version: 2.1.1
-  origversion: 2.1.1nb3
-  status: outdated
-  summary: Linux virtual machines for running containerd
-  maintainers:
-    - leot@netbsd.org
-  categories:
-    - sysutils
+- repo: homebrew
+  srcname: lima
+  visiblename: lima
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Linux virtual machines
 - repo: alpine_edge
   subrepo: testing
   srcname: lima
@@ -134,13 +129,6 @@
   version: 2.2.1
   origversion: null
   status: newest
-  summary: Linux virtual machines
-- repo: homebrew
-  srcname: lima
-  visiblename: lima
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Linux virtual machines
 - repo: macports
   srcname: sysutils/lima
@@ -272,12 +260,24 @@
     - Apache-2.0
   categories:
     - Unspecified
+- repo: pkgsrc_2026_2
+  srcname: sysutils/lima
+  binname: lima
+  visiblename: sysutils/lima
+  version: 2.1.1
+  origversion: 2.1.1nb3
+  status: outdated
+  summary: Linux virtual machines for running containerd
+  maintainers:
+    - leot@netbsd.org
+  categories:
+    - sysutils
 - repo: pkgsrc_2026_3
   srcname: sysutils/lima
   binname: lima
   visiblename: sysutils/lima
   version: 2.1.1
-  origversion: 2.1.1nb7
+  origversion: 2.1.1nb8
   status: outdated
   summary: Linux virtual machines for running containerd
   maintainers:
