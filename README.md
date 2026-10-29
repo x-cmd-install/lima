@@ -14,12 +14,12 @@ x install lima
 
 ## Code insight
 
-Total: **69,220** lines of code across **641** files in the top 5 languages.
+Total: **69,404** lines of code across **643** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 56,195 | 5,792 | 7,630 | 445 |
-| Sh | 6,342 | 1,565 | 912 | 67 |
+| Go | 56,373 | 5,811 | 7,653 | 447 |
+| Sh | 6,348 | 1,572 | 912 | 67 |
 | Yaml | 2,280 | 1,225 | 436 | 115 |
 | Json | 2,013 | 0 | 0 | 5 |
 | Svg | 655 | 2 | 1 | 9 |
@@ -31,8 +31,8 @@ Overall score: **8.7 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0-beta.1` (2026-10-03)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 22,191 · **Forks**: 989 · **Open issues**: 1,609 · **Contributors**: 238
+- **Stars**: 22,197 · **Forks**: 991 · **Open issues**: 1,610 · **Contributors**: 239
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 3052 · **Open PRs**: 65 · **Closed issues**: 1167 · **Open issues**: 442 · **Commits**: 6868
+- **Releases**: 104 · **Merged PRs**: 3059 · **Open PRs**: 63 · **Closed issues**: 1171 · **Open issues**: 439 · **Commits**: 6883
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 2 | 77 | 11 | 24 | 21 | 77 |
-| last60d | 2026-08-29 | 3 | 127 | 17 | 38 | 35 | 135 |
-| 90d | 2026-07-30 | 3 | 180 | 19 | 47 | 40 | 193 |
-| last180d | 2026-05-01 | 9 | 428 | 38 | 115 | 73 | 472 |
-| 360d | 2025-11-02 | 25 | 787 | 56 | 253 | 120 | 854 |
-| last720d | 2024-11-07 | 44 | 1595 | 62 | 537 | 232 | 3435 |
+| 30d | 2026-09-29 | 2 | 82 | 10 | 26 | 20 | 83 |
+| last60d | 2026-08-30 | 3 | 131 | 16 | 40 | 31 | 141 |
+| 90d | 2026-07-31 | 3 | 183 | 18 | 50 | 38 | 200 |
+| last180d | 2026-05-02 | 9 | 433 | 33 | 119 | 68 | 480 |
+| 360d | 2025-11-03 | 25 | 791 | 54 | 256 | 117 | 862 |
+| last720d | 2024-11-08 | 44 | 1596 | 60 | 541 | 228 | 3431 |
 
 ## Release assets
 
@@ -87,11 +87,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/lima). **8** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/lima). **9** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.2.1` | ✅ latest |
 | Nix unstable | `2.2.0` | ⚠️ outdated |
 | Alpine edge | `2.2.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.2.1` | ✅ latest |
@@ -105,4 +105,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:46:20Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:55:34Z._

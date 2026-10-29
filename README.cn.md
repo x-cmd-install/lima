@@ -14,12 +14,12 @@ x install lima
 
 ## 代码洞察
 
-合计: **69,220** 行代码（覆盖前 5 种语言、共 **641** 个文件）。
+合计: **69,404** 行代码（覆盖前 5 种语言、共 **643** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 56,195 | 5,792 | 7,630 | 445 |
-| Sh | 6,342 | 1,565 | 912 | 67 |
+| Go | 56,373 | 5,811 | 7,653 | 447 |
+| Sh | 6,348 | 1,572 | 912 | 67 |
 | Yaml | 2,280 | 1,225 | 436 | 115 |
 | Json | 2,013 | 0 | 0 | 5 |
 | Svg | 655 | 2 | 1 | 9 |
@@ -31,8 +31,8 @@ x install lima
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install lima
 ## 发布
 
 - **最新版本**: `v2.3.0-beta.1` (2026-10-03)
-- **最近提交**: 2026-10-28
+- **最近提交**: 2026-10-29
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 22,191 · **Fork**: 989 · **开放 issue**: 1,609 · **贡献者**: 238
+- **Star**: 22,197 · **Fork**: 991 · **开放 issue**: 1,610 · **贡献者**: 239
 
 ## 累计统计
 
-- **发布数**: 104 · **已合并 PR**: 3052 · **开放 PR**: 65 · **已关闭 issue**: 1167 · **开放 issue**: 442 · **提交数**: 6868
+- **发布数**: 104 · **已合并 PR**: 3059 · **开放 PR**: 63 · **已关闭 issue**: 1171 · **开放 issue**: 439 · **提交数**: 6883
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 2 | 77 | 11 | 24 | 21 | 77 |
-| last60d | 2026-08-29 | 3 | 127 | 17 | 38 | 35 | 135 |
-| 90d | 2026-07-30 | 3 | 180 | 19 | 47 | 40 | 193 |
-| last180d | 2026-05-01 | 9 | 428 | 38 | 115 | 73 | 472 |
-| 360d | 2025-11-02 | 25 | 787 | 56 | 253 | 120 | 854 |
-| last720d | 2024-11-07 | 44 | 1595 | 62 | 537 | 232 | 3435 |
+| 30d | 2026-09-29 | 2 | 82 | 10 | 26 | 20 | 83 |
+| last60d | 2026-08-30 | 3 | 131 | 16 | 40 | 31 | 141 |
+| 90d | 2026-07-31 | 3 | 183 | 18 | 50 | 38 | 200 |
+| last180d | 2026-05-02 | 9 | 433 | 33 | 119 | 68 | 480 |
+| 360d | 2025-11-03 | 25 | 791 | 54 | 256 | 117 | 862 |
+| last720d | 2024-11-08 | 44 | 1596 | 60 | 541 | 228 | 3431 |
 
 ## Release 资产
 
@@ -87,11 +87,11 @@ x install lima
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/lima) 上共有 **28** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/lima) 上共有 **28** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.2.1` | ✅ latest |
 | Nix unstable | `2.2.0` | ⚠️ outdated |
 | Alpine edge | `2.2.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.2.1` | ✅ latest |
@@ -105,4 +105,4 @@ lima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T05:46:21Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T05:55:35Z._
