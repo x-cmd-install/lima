@@ -14,11 +14,11 @@ x install lima
 
 ## Code insight
 
-Total: **69,404** lines of code across **643** files in the top 5 languages.
+Total: **69,768** lines of code across **645** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 56,373 | 5,811 | 7,653 | 447 |
+| Go | 56,735 | 5,870 | 7,682 | 449 |
 | Sh | 6,348 | 1,572 | 912 | 67 |
 | Yaml | 2,280 | 1,225 | 436 | 115 |
 | Json | 2,013 | 0 | 0 | 5 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,197 · **Forks**: 991 · **Open issues**: 1,610 · **Contributors**: 239
+- **Stars**: 22,203 · **Forks**: 991 · **Open issues**: 1,610 · **Contributors**: 239
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 3059 · **Open PRs**: 63 · **Closed issues**: 1171 · **Open issues**: 439 · **Commits**: 6883
+- **Releases**: 104 · **Merged PRs**: 3061 · **Open PRs**: 63 · **Closed issues**: 1173 · **Open issues**: 437 · **Commits**: 6888
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 82 | 10 | 26 | 20 | 83 |
-| last60d | 2026-08-30 | 3 | 131 | 16 | 40 | 31 | 141 |
-| 90d | 2026-07-31 | 3 | 183 | 18 | 50 | 38 | 200 |
-| last180d | 2026-05-02 | 9 | 433 | 33 | 119 | 68 | 480 |
-| 360d | 2025-11-03 | 25 | 791 | 54 | 256 | 117 | 862 |
-| last720d | 2024-11-08 | 44 | 1596 | 60 | 541 | 228 | 3431 |
+| 30d | 2026-09-30 | 2 | 82 | 11 | 24 | 19 | 85 |
+| last60d | 2026-08-31 | 3 | 132 | 16 | 41 | 29 | 143 |
+| 90d | 2026-08-01 | 3 | 183 | 18 | 51 | 36 | 203 |
+| last180d | 2026-05-03 | 9 | 435 | 33 | 120 | 67 | 483 |
+| 360d | 2025-11-04 | 25 | 789 | 54 | 255 | 115 | 865 |
+| last720d | 2024-11-09 | 43 | 1598 | 60 | 542 | 225 | 3414 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:55:34Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:51:35Z._
