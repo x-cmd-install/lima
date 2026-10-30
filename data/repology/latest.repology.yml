@@ -1,3 +1,47 @@
+- repo: nix_stable_24_11
+  srcname: lima
+  visiblename: lima
+  version: 1.0.1
+  origversion: null
+  status: outdated
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - vo@anhduy.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: lima-bin
+  visiblename: lima
+  version: 0.22.0
+  origversion: null
+  status: legacy
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - tgagnaux@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: lima
+  visiblename: lima
+  version: 0.21.0
+  origversion: null
+  status: outdated
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - vo@anhduy.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: lima-bin
+  visiblename: lima
+  version: 0.21.0
+  origversion: null
+  status: outdated
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - tgagnaux@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: lima
@@ -145,50 +189,6 @@
     - Apache-2
   categories:
     - sysutils
-- repo: nix_stable_24_05
-  srcname: lima
-  visiblename: lima
-  version: 0.21.0
-  origversion: null
-  status: outdated
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - vo@anhduy.io
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: lima-bin
-  visiblename: lima
-  version: 0.21.0
-  origversion: null
-  status: outdated
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - tgagnaux@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: lima
-  visiblename: lima
-  version: 1.0.1
-  origversion: null
-  status: outdated
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - vo@anhduy.io
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: lima-bin
-  visiblename: lima
-  version: 0.22.0
-  origversion: null
-  status: legacy
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - tgagnaux@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: lima
   visiblename: lima
