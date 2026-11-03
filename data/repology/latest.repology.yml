@@ -1,3 +1,22 @@
+- repo: scoop
+  subrepo: main
+  binname: lima
+  visiblename: lima
+  version: 2.2.1
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: spack
+  srcname: lima
+  visiblename: lima
+  version: 0.23.2
+  origversion: null
+  status: outdated
+  maintainers:
+    - trws@spack
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: lima
@@ -109,7 +128,7 @@
   binname: lima-bin
   visiblename: lima-bin
   version: 2.2.1
-  origversion: 2.2.1-1
+  origversion: 2.2.1-2
   status: newest
   summary: Linux virtual machines, typically on macOS, for running containerd.
   maintainers:
@@ -296,25 +315,6 @@
     - leot@netbsd.org
   categories:
     - sysutils
-- repo: scoop
-  subrepo: main
-  binname: lima
-  visiblename: lima
-  version: 2.2.1
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
-- repo: spack
-  srcname: lima
-  visiblename: lima
-  version: 0.23.2
-  origversion: null
-  status: outdated
-  maintainers:
-    - trws@spack
-  licenses:
-    - Apache-2.0
 - repo: t2
   srcname: lima
   visiblename: lima
