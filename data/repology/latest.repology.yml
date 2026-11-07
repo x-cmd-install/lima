@@ -1,10 +1,45 @@
-- repo: scoop
-  subrepo: main
-  binname: lima
+- repo: nix_stable_24_11
+  srcname: lima-bin
   visiblename: lima
-  version: 2.2.1
+  version: 0.22.0
   origversion: null
-  status: newest
+  status: legacy
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - tgagnaux@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: lima
+  visiblename: lima
+  version: 1.0.7
+  origversion: null
+  status: outdated
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - vo@anhduy.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: lima-bin
+  visiblename: lima
+  version: 0.22.0
+  origversion: null
+  status: legacy
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - tgagnaux@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: lima
+  visiblename: lima
+  version: 1.2.2
+  origversion: null
+  status: outdated
+  summary: Linux virtual machines with automatic file sharing and port forwarding
+  maintainers:
+    - vo@anhduy.io
   licenses:
     - Apache-2.0
 - repo: spack
@@ -103,7 +138,7 @@
   visiblename: lima
   version: 2.2.1
   origversion: 2.2.1-alt1
-  status: newest
+  status: outdated
   summary: Linux virtual machines, with a focus on running containers
   maintainers:
     - aibure@altlinux.org
@@ -117,7 +152,7 @@
   visiblename: lima
   version: 2.2.1
   origversion: 2.2.1-1
-  status: newest
+  status: outdated
   summary: Linux virtual machines, typically on macOS, for running containerd.
   maintainers:
     - seniordevops@aur
@@ -129,7 +164,7 @@
   visiblename: lima-bin
   version: 2.2.1
   origversion: 2.2.1-2
-  status: newest
+  status: outdated
   summary: Linux virtual machines, typically on macOS, for running containerd.
   maintainers:
     - seniordevops@aur
@@ -138,7 +173,7 @@
 - repo: homebrew
   srcname: lima
   visiblename: lima
-  version: 2.2.1
+  version: 2.3.0
   origversion: null
   status: newest
   summary: Linux virtual machines
@@ -153,7 +188,7 @@
   srcname: sysutils/lima
   binname: lima
   visiblename: lima
-  version: 2.2.1
+  version: 2.3.0
   origversion: null
   status: newest
   summary: Linux virtual machines
@@ -197,50 +232,6 @@
     - vo@anhduy.io
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: lima-bin
-  visiblename: lima
-  version: 0.22.0
-  origversion: null
-  status: legacy
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - tgagnaux@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: lima
-  visiblename: lima
-  version: 1.0.7
-  origversion: null
-  status: outdated
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - vo@anhduy.io
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: lima-bin
-  visiblename: lima
-  version: 0.22.0
-  origversion: null
-  status: legacy
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - tgagnaux@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: lima
-  visiblename: lima
-  version: 1.2.2
-  origversion: null
-  status: outdated
-  summary: Linux virtual machines with automatic file sharing and port forwarding
-  maintainers:
-    - vo@anhduy.io
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: lima
   visiblename: lima
@@ -273,7 +264,7 @@
   visiblename: lima
   version: 2.2.1
   origversion: 2.2.1-1.1
-  status: newest
+  status: outdated
   summary: Linux virtual machines, with a focus on running containers
   licenses:
     - Apache-2.0
@@ -309,16 +300,25 @@
   visiblename: sysutils/lima
   version: 2.2.1
   origversion: 2.2.1nb1
-  status: newest
+  status: outdated
   summary: Linux virtual machines for running containerd
   maintainers:
     - leot@netbsd.org
   categories:
     - sysutils
+- repo: scoop
+  subrepo: main
+  binname: lima
+  visiblename: lima
+  version: 2.3.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
 - repo: t2
   srcname: lima
   visiblename: lima
-  version: 2.2.1
+  version: 2.3.0
   origversion: null
   status: newest
   summary: Linux virtual machines, with a focus on running containers
