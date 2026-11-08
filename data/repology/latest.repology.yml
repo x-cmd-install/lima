@@ -1,57 +1,10 @@
-- repo: nix_stable_24_11
-  srcname: lima-bin
-  visiblename: lima
-  version: 0.22.0
-  origversion: null
-  status: legacy
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - tgagnaux@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
+- repo: homebrew
   srcname: lima
   visiblename: lima
-  version: 1.0.7
+  version: HEAD
   origversion: null
-  status: outdated
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - vo@anhduy.io
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: lima-bin
-  visiblename: lima
-  version: 0.22.0
-  origversion: null
-  status: legacy
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - tgagnaux@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: lima
-  visiblename: lima
-  version: 1.2.2
-  origversion: null
-  status: outdated
-  summary: Linux virtual machines with automatic file sharing and port forwarding
-  maintainers:
-    - vo@anhduy.io
-  licenses:
-    - Apache-2.0
-- repo: spack
-  srcname: lima
-  visiblename: lima
-  version: 0.23.2
-  origversion: null
-  status: outdated
-  maintainers:
-    - trws@spack
-  licenses:
-    - Apache-2.0
+  status: rolling
+  summary: Linux virtual machines
 - repo: alpine_edge
   subrepo: testing
   srcname: lima
@@ -162,9 +115,9 @@
   srcname: lima-bin
   binname: lima-bin
   visiblename: lima-bin
-  version: 2.2.1
-  origversion: 2.2.1-2
-  status: outdated
+  version: 2.3.0
+  origversion: 2.3.0-2
+  status: newest
   summary: Linux virtual machines, typically on macOS, for running containerd.
   maintainers:
     - seniordevops@aur
@@ -176,13 +129,6 @@
   version: 2.3.0
   origversion: null
   status: newest
-  summary: Linux virtual machines
-- repo: homebrew
-  srcname: lima
-  visiblename: lima
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Linux virtual machines
 - repo: macports
   srcname: sysutils/lima
@@ -228,6 +174,50 @@
   origversion: null
   status: outdated
   summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - vo@anhduy.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: lima-bin
+  visiblename: lima
+  version: 0.22.0
+  origversion: null
+  status: legacy
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - tgagnaux@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: lima
+  visiblename: lima
+  version: 1.0.7
+  origversion: null
+  status: outdated
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - vo@anhduy.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: lima-bin
+  visiblename: lima
+  version: 0.22.0
+  origversion: null
+  status: legacy
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - tgagnaux@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: lima
+  visiblename: lima
+  version: 1.2.2
+  origversion: null
+  status: outdated
+  summary: Linux virtual machines with automatic file sharing and port forwarding
   maintainers:
     - vo@anhduy.io
   licenses:
@@ -313,6 +303,16 @@
   version: 2.3.0
   origversion: null
   status: newest
+  licenses:
+    - Apache-2.0
+- repo: spack
+  srcname: lima
+  visiblename: lima
+  version: 0.23.2
+  origversion: null
+  status: outdated
+  maintainers:
+    - trws@spack
   licenses:
     - Apache-2.0
 - repo: t2
