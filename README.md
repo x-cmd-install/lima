@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0` (2026-11-06)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-07
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 22,267 · **Forks**: 996 · **Open issues**: 1,624 · **Contributors**: 242
+- **Stars**: 22,281 · **Forks**: 997 · **Open issues**: 1,625 · **Contributors**: 242
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 3094 · **Open PRs**: 62 · **Closed issues**: 1188 · **Open issues**: 436 · **Commits**: 6975
+- **Releases**: 106 · **Merged PRs**: 3095 · **Open PRs**: 63 · **Closed issues**: 1188 · **Open issues**: 437 · **Commits**: 6977
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 91 | 9 | 29 | 22 | 116 |
-| last60d | 2026-09-08 | 4 | 144 | 16 | 45 | 32 | 177 |
-| 90d | 2026-08-09 | 5 | 203 | 16 | 62 | 36 | 242 |
-| last180d | 2026-05-11 | 11 | 452 | 30 | 129 | 66 | 517 |
-| 360d | 2025-11-12 | 22 | 799 | 51 | 261 | 111 | 904 |
-| last720d | 2024-11-17 | 45 | 1619 | 58 | 552 | 221 | 3481 |
+| 30d | 2026-10-09 | 2 | 88 | 10 | 26 | 21 | 117 |
+| last60d | 2026-09-09 | 4 | 143 | 17 | 46 | 32 | 178 |
+| 90d | 2026-08-10 | 5 | 201 | 17 | 62 | 37 | 243 |
+| last180d | 2026-05-12 | 11 | 450 | 30 | 129 | 67 | 518 |
+| 360d | 2025-11-13 | 22 | 795 | 52 | 259 | 112 | 905 |
+| last720d | 2024-11-18 | 45 | 1618 | 59 | 552 | 222 | 3483 |
 
 ## Release assets
 
@@ -89,11 +89,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/lima). **4** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/lima). **5** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.3.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2.2.0` | ⚠️ outdated |
 | Alpine edge | `2.2.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.2.1` | ⚠️ outdated |
@@ -107,4 +107,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:08:57Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:10:44Z._
