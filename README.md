@@ -31,8 +31,8 @@ Overall score: **8.5 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Vulnerabilities** (0/10) — 12 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Vulnerabilities** (0/10) — 12 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0` (2026-11-06)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-09
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 22,281 · **Forks**: 997 · **Open issues**: 1,625 · **Contributors**: 242
+- **Stars**: 22,291 · **Forks**: 997 · **Open issues**: 1,627 · **Contributors**: 242
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 3095 · **Open PRs**: 63 · **Closed issues**: 1188 · **Open issues**: 437 · **Commits**: 6977
+- **Releases**: 106 · **Merged PRs**: 3097 · **Open PRs**: 66 · **Closed issues**: 1188 · **Open issues**: 439 · **Commits**: 6981
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 88 | 10 | 26 | 21 | 117 |
-| last60d | 2026-09-09 | 4 | 143 | 17 | 46 | 32 | 178 |
-| 90d | 2026-08-10 | 5 | 201 | 17 | 62 | 37 | 243 |
-| last180d | 2026-05-12 | 11 | 450 | 30 | 129 | 67 | 518 |
-| 360d | 2025-11-13 | 22 | 795 | 52 | 259 | 112 | 905 |
-| last720d | 2024-11-18 | 45 | 1618 | 59 | 552 | 222 | 3483 |
+| 30d | 2026-10-10 | 2 | 90 | 13 | 26 | 23 | 93 |
+| last60d | 2026-09-10 | 4 | 144 | 20 | 46 | 34 | 166 |
+| 90d | 2026-08-11 | 5 | 201 | 20 | 60 | 39 | 235 |
+| last180d | 2026-05-13 | 11 | 450 | 33 | 129 | 69 | 498 |
+| 360d | 2025-11-14 | 22 | 794 | 55 | 259 | 114 | 872 |
+| last720d | 2024-11-19 | 45 | 1617 | 62 | 552 | 224 | 3482 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:10:44Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:22:01Z._
