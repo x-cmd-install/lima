@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 50317981,
       "digest": "sha256:b7af444bd8f91d3c307477e562f2cf3bd7595d62b9429185e4fa841563578cfc",
-      "download_count": 2694,
+      "download_count": 4329,
       "created_at": "2026-11-06T14:45:45Z",
       "updated_at": "2026-11-06T14:45:48Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-2.3.0-Darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 37793345,
       "digest": "sha256:d58bc7d6b8158d638720d8c8fdb17eb58527dfead6a29a5b60f48a35ee4a65a6",
-      "download_count": 568,
+      "download_count": 875,
       "created_at": "2026-11-06T14:45:45Z",
       "updated_at": "2026-11-06T14:45:48Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-2.3.0-Darwin-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11731130,
       "digest": "sha256:414c55841f81d8af827f81ea7380e6a62fc83b418e84b1338fb036f16aab36ba",
-      "download_count": 16,
+      "download_count": 18,
       "created_at": "2026-11-06T14:45:48Z",
       "updated_at": "2026-11-06T14:45:48Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-2.3.0-go-mod-vendor.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33648446,
       "digest": "sha256:7e295d243d9b9439fa05628500daff4371a6861cc7e995ac4af4a0781f736cc6",
-      "download_count": 122,
+      "download_count": 186,
       "created_at": "2026-11-06T14:45:45Z",
       "updated_at": "2026-11-06T14:45:48Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-2.3.0-Linux-aarch64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 37520217,
       "digest": "sha256:cc8ba97f1c801b899f7c9eda9919dfc4ce4fa2c140c53e5add15aa2d0a1936f9",
-      "download_count": 2507,
+      "download_count": 3993,
       "created_at": "2026-11-06T14:45:45Z",
       "updated_at": "2026-11-06T14:45:47Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-2.3.0-Linux-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 46609,
       "digest": "sha256:c7158f73f88c9cc443e7fa32d6dab1b2037786e58d82ccf9a5aa2153aafa4d19",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-06T14:45:48Z",
       "updated_at": "2026-11-06T14:45:48Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-2.3.0-sbom.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 36521982,
       "digest": "sha256:fbd49036909ba3833ea8618743bd3a051eb21049c80c0772452f79ed45af99dc",
-      "download_count": 94,
+      "download_count": 130,
       "created_at": "2026-11-06T14:45:46Z",
       "updated_at": "2026-11-06T14:45:47Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-2.3.0-Windows-AMD64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 39669571,
       "digest": "sha256:f43a1523a3a0a45692ca9cb3e5c61ae11b69ef04ca80081e8e05fe4df816a35a",
-      "download_count": 110,
+      "download_count": 160,
       "created_at": "2026-11-06T14:45:48Z",
       "updated_at": "2026-11-06T14:45:50Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-additional-guestagents-2.3.0-Darwin-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 38829659,
       "digest": "sha256:cecb56c17ee4aaeac9412b079f175bba52d50b657829099f37b67b424c6364f3",
-      "download_count": 24,
+      "download_count": 36,
       "created_at": "2026-11-06T14:45:48Z",
       "updated_at": "2026-11-06T14:45:51Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-additional-guestagents-2.3.0-Darwin-x86_64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 38916707,
       "digest": "sha256:28f1b8b2ac1f0facb98e947fbc9d5f9312017a905a09a3bdf1103d600315e844",
-      "download_count": 55,
+      "download_count": 88,
       "created_at": "2026-11-06T14:45:49Z",
       "updated_at": "2026-11-06T14:45:52Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-additional-guestagents-2.3.0-Linux-x86_64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 38917291,
       "digest": "sha256:ab71b2839c71183a7e7fdad89476b2b445dd0298b8aa6fe506ae77b04f827178",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-06T14:45:50Z",
       "updated_at": "2026-11-06T14:45:54Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/lima-additional-guestagents-2.3.0-Windows-AMD64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 39472,
       "digest": "sha256:1ceb6cbb2026e0fdcf8f997ca2c0ab6dbb2e6ff8af2b9ea9433d9f54c329e307",
-      "download_count": 7,
+      "download_count": 16,
       "created_at": "2026-11-06T14:45:51Z",
       "updated_at": "2026-11-06T14:45:52Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/schema-limayaml.json"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1485,
       "digest": "sha256:5f9eaa93d2b58986273347d0f139b95f8fb87f117d98897760dee8d5b9d45ca6",
-      "download_count": 1011,
+      "download_count": 1494,
       "created_at": "2026-11-06T14:45:45Z",
       "updated_at": "2026-11-06T14:45:45Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/SHA256SUMS"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 699,
       "digest": "sha256:4bf1cf1831f8b465824d66ce3ee12489285b3f0d017b5473eaf271012abfc702",
-      "download_count": 26,
+      "download_count": 38,
       "created_at": "2026-11-06T14:49:17Z",
       "updated_at": "2026-11-06T14:49:19Z",
       "browser_download_url": "https://github.com/lima-vm/lima/releases/download/v2.3.0/SHA256SUMS.asc"
