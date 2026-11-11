@@ -19,7 +19,7 @@ Total: **71,983** lines of code across **673** files in the top 5 languages.
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 58,477 | 6,099 | 7,903 | 468 |
-| Sh | 6,792 | 1,654 | 977 | 72 |
+| Sh | 6,792 | 1,658 | 977 | 72 |
 | Yaml | 2,302 | 1,231 | 439 | 119 |
 | Json | 2,013 | 0 | 0 | 5 |
 | Svg | 655 | 2 | 1 | 9 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0` (2026-11-06)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 22,301 · **Forks**: 998 · **Open issues**: 1,631 · **Contributors**: 243
+- **Stars**: 22,314 · **Forks**: 1,001 · **Open issues**: 1,632 · **Contributors**: 242
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 3098 · **Open PRs**: 74 · **Closed issues**: 1189 · **Open issues**: 442 · **Commits**: 6983
+- **Releases**: 106 · **Merged PRs**: 3100 · **Open PRs**: 79 · **Closed issues**: 1189 · **Open issues**: 443 · **Commits**: 6987
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 89 | 21 | 25 | 26 | 94 |
-| last60d | 2026-09-11 | 4 | 145 | 28 | 47 | 36 | 167 |
-| 90d | 2026-08-12 | 5 | 201 | 28 | 61 | 41 | 236 |
-| last180d | 2026-05-14 | 11 | 445 | 41 | 129 | 71 | 499 |
-| 360d | 2025-11-15 | 22 | 795 | 63 | 260 | 117 | 873 |
-| last720d | 2024-11-20 | 45 | 1618 | 70 | 552 | 227 | 3481 |
+| 30d | 2026-10-12 | 2 | 88 | 26 | 22 | 27 | 96 |
+| last60d | 2026-09-12 | 4 | 147 | 32 | 47 | 37 | 169 |
+| 90d | 2026-08-13 | 5 | 202 | 33 | 61 | 42 | 238 |
+| last180d | 2026-05-15 | 11 | 444 | 46 | 127 | 72 | 501 |
+| 360d | 2025-11-16 | 22 | 797 | 68 | 259 | 118 | 875 |
+| last720d | 2024-11-21 | 45 | 1615 | 75 | 551 | 228 | 3481 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:19:47Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:15:09Z._
