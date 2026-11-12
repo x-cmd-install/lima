@@ -26,7 +26,7 @@ Total: **71,983** lines of code across **673** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.5 / 10**
+Overall score: **8.6 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0` (2026-11-06)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-12
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 22,314 · **Forks**: 1,001 · **Open issues**: 1,632 · **Contributors**: 242
+- **Stars**: 22,327 · **Forks**: 1,002 · **Open issues**: 1,633 · **Contributors**: 242
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 3100 · **Open PRs**: 79 · **Closed issues**: 1189 · **Open issues**: 443 · **Commits**: 6987
+- **Releases**: 106 · **Merged PRs**: 3103 · **Open PRs**: 78 · **Closed issues**: 1189 · **Open issues**: 444 · **Commits**: 6993
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 88 | 26 | 22 | 27 | 96 |
-| last60d | 2026-09-12 | 4 | 147 | 32 | 47 | 37 | 169 |
-| 90d | 2026-08-13 | 5 | 202 | 33 | 61 | 42 | 238 |
-| last180d | 2026-05-15 | 11 | 444 | 46 | 127 | 72 | 501 |
-| 360d | 2025-11-16 | 22 | 797 | 68 | 259 | 118 | 875 |
-| last720d | 2024-11-21 | 45 | 1615 | 75 | 551 | 228 | 3481 |
+| 30d | 2026-10-13 | 2 | 90 | 25 | 22 | 26 | 99 |
+| last60d | 2026-09-13 | 4 | 150 | 31 | 47 | 38 | 172 |
+| 90d | 2026-08-14 | 5 | 205 | 32 | 61 | 43 | 241 |
+| last180d | 2026-05-16 | 11 | 447 | 45 | 127 | 73 | 504 |
+| 360d | 2025-11-17 | 22 | 800 | 67 | 258 | 119 | 878 |
+| last720d | 2024-11-22 | 45 | 1614 | 74 | 551 | 228 | 3486 |
 
 ## Release assets
 
@@ -93,7 +93,7 @@ Reported by **28** distros on [repology.org](https://repology.org/project/lima).
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.3.0` | ✅ latest |
 | Nix unstable | `2.2.0` | ⚠️ outdated |
 | Alpine edge | `2.2.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.2.1` | ⚠️ outdated |
@@ -107,4 +107,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:15:09Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:21:54Z._
