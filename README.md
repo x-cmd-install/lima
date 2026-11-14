@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0` (2026-11-06)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 22,338 · **Forks**: 1,002 · **Open issues**: 1,633 · **Contributors**: 243
+- **Stars**: 22,347 · **Forks**: 1,003 · **Open issues**: 1,635 · **Contributors**: 243
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 3104 · **Open PRs**: 78 · **Closed issues**: 1191 · **Open issues**: 442 · **Commits**: 6995
+- **Releases**: 106 · **Merged PRs**: 3105 · **Open PRs**: 82 · **Closed issues**: 1191 · **Open issues**: 444 · **Commits**: 6997
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 82 | 25 | 23 | 25 | 100 |
-| last60d | 2026-09-14 | 4 | 149 | 31 | 47 | 37 | 173 |
-| 90d | 2026-08-15 | 5 | 206 | 32 | 62 | 42 | 242 |
-| last180d | 2026-05-17 | 11 | 448 | 45 | 126 | 72 | 505 |
-| 360d | 2025-11-18 | 22 | 790 | 67 | 257 | 117 | 879 |
-| last720d | 2024-11-23 | 45 | 1614 | 74 | 553 | 226 | 3475 |
+| 30d | 2026-10-15 | 2 | 79 | 29 | 19 | 26 | 101 |
+| last60d | 2026-09-15 | 4 | 148 | 35 | 47 | 38 | 174 |
+| 90d | 2026-08-16 | 5 | 206 | 36 | 61 | 43 | 243 |
+| last180d | 2026-05-18 | 11 | 446 | 49 | 125 | 74 | 506 |
+| 360d | 2025-11-19 | 22 | 784 | 71 | 256 | 118 | 880 |
+| last720d | 2024-11-24 | 45 | 1615 | 78 | 553 | 228 | 3472 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:56:48Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:25:59Z._
