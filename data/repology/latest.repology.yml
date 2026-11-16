@@ -1,3 +1,36 @@
+- repo: nix_stable_25_05
+  srcname: lima
+  visiblename: lima
+  version: 1.0.7
+  origversion: null
+  status: outdated
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - vo@anhduy.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: lima-bin
+  visiblename: lima
+  version: 0.22.0
+  origversion: null
+  status: legacy
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - tgagnaux@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: lima
+  visiblename: lima
+  version: 1.2.2
+  origversion: null
+  status: outdated
+  summary: Linux virtual machines with automatic file sharing and port forwarding
+  maintainers:
+    - vo@anhduy.io
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: lima
@@ -9,6 +42,17 @@
   summary: Linux virtual machine launcher focusing on running containers
   maintainers:
     - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: lima-bin
+  visiblename: lima
+  version: 0.22.0
+  origversion: null
+  status: legacy
+  summary: Linux virtual machines (on macOS, in most cases)
+  maintainers:
+    - tgagnaux@gmail.com
   licenses:
     - Apache-2.0
 - repo: alpine_edge
@@ -35,17 +79,6 @@
   summary: Linux virtual machine launcher focusing on running containers (documentation)
   maintainers:
     - folliekazetani@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: lima
-  visiblename: lima
-  version: 1.2.2
-  origversion: null
-  status: outdated
-  summary: Linux virtual machines with automatic file sharing and port forwarding
-  maintainers:
-    - vo@anhduy.io
   licenses:
     - Apache-2.0
 - repo: alpine_edge
@@ -189,39 +222,6 @@
     - vo@anhduy.io
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: lima-bin
-  visiblename: lima
-  version: 0.22.0
-  origversion: null
-  status: legacy
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - tgagnaux@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: lima
-  visiblename: lima
-  version: 1.0.7
-  origversion: null
-  status: outdated
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - vo@anhduy.io
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: lima-bin
-  visiblename: lima
-  version: 0.22.0
-  origversion: null
-  status: legacy
-  summary: Linux virtual machines (on macOS, in most cases)
-  maintainers:
-    - tgagnaux@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: lima
   visiblename: lima
@@ -277,7 +277,7 @@
   binname: lima
   visiblename: sysutils/lima
   version: 2.1.1
-  origversion: 2.1.1nb8
+  origversion: 2.1.1nb9
   status: outdated
   summary: Linux virtual machines for running containerd
   maintainers:
