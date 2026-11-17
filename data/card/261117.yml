@@ -1,0 +1,188 @@
+about:
+  description: "Linux virtual machines, with a focus on running containers"
+  license: Apache-2.0
+  homepage: https://lima-vm.io/
+  head: fd6cf10
+  archived: false
+  latestVersion: "v2.3.0"
+  latestRelease: "v2.3.0"
+  latestPrerelease: "v2.3.0-rc.0"
+  collectedAt: 2026-11-17T09:38:19Z
+timeline:
+  created: 2021-05-14
+  lastCommit: 2026-11-16
+  lastVersion: 2026-11-06
+  lastRelease: 2026-11-06
+  lastPrerelease: 2026-10-30
+popularity:
+  star: 22381
+  watcher: 88
+  fork: 1007
+  release: 106
+  contributor: 244
+  pullRequest: 3705
+  issue: 1640
+language:
+  Go: 2097901
+  Shell: 495157
+  Makefile: 39386
+  HTML: 9440
+  PowerShell: 9372
+  Dockerfile: 1562
+  SCSS: 1389
+  Lua: 369
+  Batchfile: 361
+totalBytes: 2654937
+recent:
+  last30d:
+    since: 2026-10-18
+    release: 2
+    mergedPR: 81
+    openPR: 29
+    closedIssue: 18
+    openIssue: 27
+    commit: 90
+  last60d:
+    since: 2026-09-18
+    release: 4
+    mergedPR: 150
+    openPR: 35
+    closedIssue: 48
+    openIssue: 39
+    commit: 170
+  last90d:
+    since: 2026-08-19
+    release: 5
+    mergedPR: 209
+    openPR: 36
+    closedIssue: 61
+    openIssue: 45
+    commit: 240
+  last180d:
+    since: 2026-05-21
+    release: 11
+    mergedPR: 449
+    openPR: 49
+    closedIssue: 127
+    openIssue: 75
+    commit: 499
+  last360d:
+    since: 2025-11-22
+    release: 22
+    mergedPR: 781
+    openPR: 69
+    closedIssue: 255
+    openIssue: 119
+    commit: 866
+  last720d:
+    since: 2024-11-27
+    release: 45
+    mergedPR: 1622
+    openPR: 77
+    closedIssue: 555
+    openIssue: 229
+    commit: 3475
+total:
+  release: 106
+  mergedPR: 3115
+  openPR: 81
+  closedIssue: 1195
+  openIssue: 445
+  commit: 7018
+---
+path: /home/runner/.x-repo/github.com/lima-vm/lima
+collectedAt: 2026-11-17T09:38:22Z
+loc:
+  Go:
+    code: 58692
+    comments: 6140
+    blanks: 7920
+    files: 469
+  Sh:
+    code: 6792
+    comments: 1658
+    blanks: 977
+    files: 72
+  Yaml:
+    code: 2302
+    comments: 1233
+    blanks: 439
+    files: 119
+  Json:
+    code: 2013
+    comments: 0
+    blanks: 0
+    files: 5
+  Svg:
+    code: 655
+    comments: 2
+    blanks: 1
+    files: 9
+  Makefile:
+    code: 605
+    comments: 171
+    blanks: 144
+    files: 2
+  Html:
+    code: 243
+    comments: 0
+    blanks: 22
+    files: 10
+  Xml:
+    code: 238
+    comments: 9
+    blanks: 1
+    files: 1
+  PowerShell:
+    code: 171
+    comments: 19
+    blanks: 21
+    files: 3
+  Toml:
+    code: 157
+    comments: 64
+    blanks: 40
+    files: 2
+  Bash:
+    code: 154
+    comments: 114
+    blanks: 27
+    files: 4
+  Protobuf:
+    code: 116
+    comments: 121
+    blanks: 47
+    files: 2
+  Sass:
+    code: 40
+    comments: 10
+    blanks: 11
+    files: 1
+  Lua:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 1
+  Batch:
+    code: 4
+    comments: 3
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4063
+    blanks: 1434
+    files: 92
+  Text:
+    code: 0
+    comments: 10
+    blanks: 1
+    files: 6
+total:
+  code: 72883
+  comments: 13755
+  blanks: 11134
+  files: 799
+---
+
+---
