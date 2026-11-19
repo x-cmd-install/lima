@@ -24,6 +24,16 @@ x install lima
 | Json | 2,013 | 0 | 0 | 5 |
 | Svg | 655 | 2 | 1 | 9 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **8.7 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Vulnerabilities** (0/10) — 10 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/lima-vm/lima>
@@ -33,27 +43,27 @@ x install lima
 ## 发布
 
 - **最新版本**: `v2.3.0` (2026-11-06)
-- **最近提交**: 2026-11-16
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 22,381 · **Fork**: 1,007 · **开放 issue**: 1,640 · **贡献者**: 244
+- **Star**: 22,403 · **Fork**: 1,010 · **开放 issue**: 1,643 · **贡献者**: 244
 
 ## 累计统计
 
-- **发布数**: 106 · **已合并 PR**: 3115 · **开放 PR**: 81 · **已关闭 issue**: 1195 · **开放 issue**: 445 · **提交数**: 7018
+- **发布数**: 106 · **已合并 PR**: 3119 · **开放 PR**: 84 · **已关闭 issue**: 1197 · **开放 issue**: 446 · **提交数**: 7026
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 81 | 29 | 18 | 27 | 90 |
-| last60d | 2026-09-18 | 4 | 150 | 35 | 48 | 39 | 170 |
-| 90d | 2026-08-19 | 5 | 209 | 36 | 61 | 45 | 240 |
-| last180d | 2026-05-21 | 11 | 449 | 49 | 127 | 75 | 499 |
-| 360d | 2025-11-22 | 22 | 781 | 69 | 255 | 119 | 866 |
-| last720d | 2024-11-27 | 45 | 1622 | 77 | 555 | 229 | 3475 |
+| 30d | 2026-10-20 | 2 | 81 | 32 | 19 | 27 | 94 |
+| last60d | 2026-09-20 | 4 | 152 | 37 | 48 | 39 | 174 |
+| 90d | 2026-08-21 | 5 | 208 | 39 | 62 | 46 | 244 |
+| last180d | 2026-05-23 | 11 | 447 | 52 | 128 | 75 | 503 |
+| 360d | 2025-11-24 | 22 | 782 | 72 | 256 | 118 | 870 |
+| last720d | 2024-11-29 | 45 | 1623 | 80 | 557 | 230 | 3475 |
 
 ## Release 资产
 
@@ -97,4 +107,4 @@ lima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:38:31Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:26:40Z._
