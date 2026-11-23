@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.3.0` (2026-11-06)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 22,431 · **Forks**: 1,010 · **Open issues**: 1,646 · **Contributors**: 245
+- **Stars**: 22,444 · **Forks**: 1,009 · **Open issues**: 1,646 · **Contributors**: 245
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 3126 · **Open PRs**: 81 · **Closed issues**: 1200 · **Open issues**: 446 · **Commits**: 7042
+- **Releases**: 106 · **Merged PRs**: 3127 · **Open PRs**: 85 · **Closed issues**: 1200 · **Open issues**: 446 · **Commits**: 7044
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 2 | 74 | 30 | 19 | 24 | 71 |
-| last60d | 2026-09-23 | 4 | 154 | 33 | 50 | 37 | 174 |
-| 90d | 2026-08-24 | 5 | 210 | 37 | 64 | 47 | 231 |
-| last180d | 2026-05-26 | 11 | 448 | 49 | 126 | 73 | 501 |
-| 360d | 2025-11-27 | 21 | 784 | 69 | 256 | 117 | 869 |
-| last720d | 2024-12-02 | 45 | 1622 | 77 | 557 | 229 | 3486 |
+| 30d | 2026-10-24 | 2 | 74 | 35 | 19 | 23 | 72 |
+| last60d | 2026-09-24 | 4 | 154 | 38 | 48 | 37 | 175 |
+| 90d | 2026-08-25 | 5 | 211 | 42 | 64 | 47 | 232 |
+| last180d | 2026-05-27 | 11 | 448 | 52 | 126 | 73 | 502 |
+| 360d | 2025-11-28 | 21 | 784 | 74 | 256 | 117 | 870 |
+| last720d | 2024-12-03 | 45 | 1620 | 81 | 555 | 229 | 3474 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:59:46Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:33:11Z._
