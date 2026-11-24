@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,444 · **Forks**: 1,009 · **Open issues**: 1,646 · **Contributors**: 245
+- **Stars**: 22,458 · **Forks**: 1,010 · **Open issues**: 1,647 · **Contributors**: 245
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 3127 · **Open PRs**: 85 · **Closed issues**: 1200 · **Open issues**: 446 · **Commits**: 7044
+- **Releases**: 106 · **Merged PRs**: 3128 · **Open PRs**: 87 · **Closed issues**: 1200 · **Open issues**: 447 · **Commits**: 7046
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 74 | 35 | 19 | 23 | 72 |
-| last60d | 2026-09-24 | 4 | 154 | 38 | 48 | 37 | 175 |
-| 90d | 2026-08-25 | 5 | 211 | 42 | 64 | 47 | 232 |
-| last180d | 2026-05-27 | 11 | 448 | 52 | 126 | 73 | 502 |
-| 360d | 2025-11-28 | 21 | 784 | 74 | 256 | 117 | 870 |
-| last720d | 2024-12-03 | 45 | 1620 | 81 | 555 | 229 | 3474 |
+| 30d | 2026-10-25 | 2 | 74 | 37 | 18 | 23 | 73 |
+| last60d | 2026-09-25 | 4 | 149 | 39 | 47 | 37 | 176 |
+| 90d | 2026-08-26 | 5 | 211 | 44 | 64 | 48 | 233 |
+| last180d | 2026-05-28 | 11 | 447 | 54 | 125 | 74 | 503 |
+| 360d | 2025-11-29 | 21 | 784 | 76 | 256 | 118 | 871 |
+| last720d | 2024-12-04 | 44 | 1619 | 83 | 555 | 230 | 3470 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for lima lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:33:11Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:52:53Z._
