@@ -14,11 +14,11 @@ x install lima
 
 ## 代码洞察
 
-合计: **74,148** 行代码（覆盖前 5 种语言、共 **689** 个文件）。
+合计: **74,588** 行代码（覆盖前 5 种语言、共 **689** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 60,542 | 6,422 | 8,191 | 484 |
+| Go | 60,982 | 6,467 | 8,247 | 484 |
 | Sh | 6,797 | 1,663 | 977 | 72 |
 | Yaml | 2,302 | 1,233 | 439 | 119 |
 | Json | 2,013 | 0 | 0 | 5 |
@@ -26,13 +26,13 @@ x install lima
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.7 / 10**
+总评分: **8.8 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **Vulnerabilities** (0/10) — 10 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install lima
 ## 发布
 
 - **最新版本**: `v2.3.0` (2026-11-06)
-- **最近提交**: 2026-11-26
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 22,480 · **Fork**: 1,011 · **开放 issue**: 1,651 · **贡献者**: 248
+- **Star**: 22,498 · **Fork**: 1,015 · **开放 issue**: 1,663 · **贡献者**: 249
 
 ## 累计统计
 
-- **发布数**: 106 · **已合并 PR**: 3149 · **开放 PR**: 84 · **已关闭 issue**: 1204 · **开放 issue**: 447 · **提交数**: 7089
+- **发布数**: 106 · **已合并 PR**: 3158 · **开放 PR**: 90 · **已关闭 issue**: 1207 · **开放 issue**: 456 · **提交数**: 7107
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 86 | 34 | 18 | 24 | 0 |
-| last60d | 2026-09-27 | 4 | 170 | 36 | 49 | 38 | 0 |
-| 90d | 2026-08-28 | 5 | 222 | 41 | 67 | 49 | 0 |
-| last180d | 2026-05-30 | 11 | 466 | 51 | 128 | 74 | 0 |
-| 360d | 2025-12-01 | 21 | 803 | 72 | 258 | 119 | 0 |
-| last720d | 2024-12-06 | 44 | 1634 | 80 | 554 | 229 | 3506 |
+| 30d | 2026-10-29 | 2 | 89 | 39 | 21 | 32 | 104 |
+| last60d | 2026-09-29 | 4 | 178 | 42 | 52 | 47 | 207 |
+| 90d | 2026-08-30 | 5 | 228 | 47 | 67 | 57 | 264 |
+| last180d | 2026-06-01 | 11 | 473 | 57 | 127 | 83 | 534 |
+| 360d | 2025-12-03 | 21 | 808 | 78 | 261 | 128 | 902 |
+| last720d | 2024-12-08 | 44 | 1637 | 86 | 555 | 237 | 3515 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ lima 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:28:56Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:01:29Z._
